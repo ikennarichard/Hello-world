@@ -9,7 +9,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 
 - [👥 Authors](#authors)
 
@@ -40,18 +39,6 @@
 ### Key Features <a name="key-features"></a>
 
 - **A webpage** that displays a 'Hello microverse' message
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
