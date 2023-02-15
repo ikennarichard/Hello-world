@@ -156,6 +156,6 @@ I would like to say thank you to the amazing team at Microverse for this wonderf
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/ikennarichard/Hello-world/blob/main/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
